@@ -1,0 +1,6 @@
+Pillow
+shapely
+matplotlib
+numpy
+tensorflow
+opencv-python
